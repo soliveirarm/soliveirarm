@@ -2,7 +2,7 @@
 ### Tenho 16 anos e sou de Lins, São Paulo   
 
 - 🔭 No momento, estou apenas estudando para trabalhar com Front-End no futuro
-- Já estudei HTML e CSS  
+- ⌨ Já estudei HTML e CSS  
 - 🌱 Estou aprendendo JavaScript 
 - 😄 Pronomes: Ela/Dela
 
