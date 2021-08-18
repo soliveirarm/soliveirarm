@@ -16,5 +16,5 @@
 </div>
 
 ---
-<a href="https://www.instagram.com/rebs_oliveira01/" traget=_blank><img src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram-badge"></a>
+<a href="https://www.instagram.com/rebs_oliveira01/" target= _blank><img src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram-badge"></a>
 
