@@ -1,10 +1,10 @@
-## Meu nome é Rebeca Oliveira 
-### Tenho 16 anos e sou de Lins, São Paulo   
+## I'm Rebeca Oliveira 
+### I'm 16 anos and I'm from Lins, São Paulo, Brazil   
 
-- 🔭 No momento, estou apenas estudando para trabalhar com Front-End no futuro
-- ⌨ Já estudei HTML e CSS  
-- 🌱 Estou aprendendo JavaScript 
-- 😄 Pronomes: Ela/Dela
+- 🔭 I'm studying to be a Frontend developer
+- ⌨ I've studied HTML and CSS
+- 🌱 I'm learning JavaScript 
+- 😄 Pronouns: She/Her
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rebsoli&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rebsoli&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
