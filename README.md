@@ -1,5 +1,5 @@
 ## I'm Rebeca Oliveira 
-### I'm 16 anos and I'm from Lins, São Paulo, Brazil   
+### I'm 16 and I'm from Lins, São Paulo, Brazil   
 
 - 🔭 I'm studying to be a Frontend developer
 - ⌨ I've studied HTML and CSS
