@@ -1,10 +1,11 @@
 ## I'm Rebeca Oliveira 
-### I'm 16 and I'm from Lins, São Paulo, Brazil   
+### I'm 17 and I'm from Lins, São Paulo, Brazil   
 
 - 🔭 I'm studying to be a Frontend developer
 - ⌨ I've studied HTML and CSS
 - 🌱 I'm learning JavaScript 
 - 😄 Pronouns: She/Her
+- I'm currently studying Database and SQL
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rebsoli&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rebsoli&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
