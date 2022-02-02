@@ -22,4 +22,4 @@
 ##
 
 <a href="https://www.instagram.com/rebs.m_oliveira/" target= "_blank"><img src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram-badge"></a>
-<a href="mailto:cmrebbiebtw@gmail.com" target="_blank"><img="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+<a href="mailto:cmrebbiebtw@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
