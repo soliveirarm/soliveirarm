@@ -19,6 +19,11 @@ She/Her
   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 </div>
 
+<div>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+  <i class="devicon-mysql-plain-wordmark"></i>
+</div>
+
 ##
 
 <a href="https://www.instagram.com/rebs.m_oliveira/" target= "_blank"><img src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram-badge"></a>
