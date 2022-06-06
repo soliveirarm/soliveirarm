@@ -11,7 +11,7 @@ let rebeca = {
     location: "lins, sao paulo, brazil",
     college: "undergraduate student",
     degree: "internet systems",
-    uni: "fatec lins"
+    university: "fatec lins"
 }
 ```
 
