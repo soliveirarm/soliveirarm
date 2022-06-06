@@ -9,7 +9,7 @@
 let rebeca = {
     age: 17,
     location: "lins, sao paulo, brazil",
-    college: "undergraduate student",
+    education: "undergraduate student",
     degree: "internet systems",
     university: "fatec lins"
 }
