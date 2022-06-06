@@ -1,32 +1,35 @@
-## I'm Rebeca Oliveira 
-### I'm 17 and I'm from Lins, São Paulo, Brazil   
+## hello, i'm rebeca oliveira 
+<a href="https://www.instagram.com/rebs.m_oliveira/" target= "_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="mailto:cmrebbiebtw@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
+<a href="https://www.linkedin.com/in/sarahrebeca" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://codepen.io/rebsoli" target= "_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
+<a href="https://replit.com/@rebsoli" target= "_blank"><img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"></a>
 
-- 🔭 I'm studying to be a Frontend developer
-- ⌨ I've studied HTML and CSS
-- 🌱 I'm learning JavaScript  
-- I'm currently studying C# 
+```js
+let rebeca = {
+    age: 17,
+    location: "lins, sao paulo, brazil",
+    college: "undergraduate student",
+    degree: "internet systems",
+    instituition: "fatec lins"
+}
+```
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rebsoli&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rebsoli&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-## A little more familiar with:
+## a little more familiar with:
 <div style="display: inline-block">
-    <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-    <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=whit" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
  </div>
 
-## Learning:
+## learning:
 
 <div style="display: inline-block">
-  <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
-  <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />        
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />        
 </div>
 
 ##
-
-<a href="https://www.instagram.com/rebs.m_oliveira/" target= "_blank"><img src="https://img.icons8.com/fluency/48/undefined/instagram-new.png"/></a>
-<a href="mailto:cmrebbiebtw@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/48/undefined/gmail.png"/></a> 
-<a href="https://www.linkedin.com/in/sarahrebeca" target="_blank"><img src="https://img.icons8.com/fluency/48/undefined/linkedin.png"/></a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rebsoli&show_icons=true&theme=tokyonight)
