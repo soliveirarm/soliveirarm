@@ -8,7 +8,7 @@
 ```js
 let rebeca = {
     age: 17,
-    nationality: brazilian,
+    nationality: "brazilian",
     education: "undergraduate student",
     degree: "internet systems",
     university: "fatec lins"
