@@ -6,7 +6,7 @@
 
 ```js
 let sarah = {
-    age: 17,
+    age: 18,
     nationality: "brazilian",
     education: "undergraduate student",
     degree: "internet systems",
