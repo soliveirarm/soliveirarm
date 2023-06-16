@@ -4,7 +4,7 @@
 <a href="https://replit.com/@reb-oliveira" target= "_blank"><img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"></a>
 
 ```js
-let sarah = {
+let sarahOliveira = {
     age: 18,
     nationality: "brazilian",
     education: "undergraduate student",
