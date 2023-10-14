@@ -3,13 +3,13 @@
 <a href="https://codepen.io/oliveirasarah" target= "_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
 <a href="https://replit.com/@reb-oliveira" target= "_blank"><img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"></a>
 
-```js
-let sarahOliveira = {
-    age: 18,
-    nationality: "brazilian",
-    education: "undergraduate student",
-    degree: "internet systems",
-    university: "fatec lins"
+```py
+sarah_oliveira = {
+    "age": 18,
+    "nationality": "brazilian",
+    "education": "undergraduate student",
+    "degree": "internet systems",
+    "university": "fatec lins"
 }
 ```
 <hr>    
