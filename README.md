@@ -2,7 +2,7 @@
 
 <div align="center">
     <a href="https://www.linkedin.com/in/oliveira-sarah/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Sarah_Oliveira-9378ff?style=flat&logo=LinkedIn&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Foliveira-sarah%2F"/>
     </a>
     <a href="https://codepen.io/srmoliveira">
         <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
