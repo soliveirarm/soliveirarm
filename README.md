@@ -1,6 +1,6 @@
 # Hello! I'm Sarah Oliveira
 
-<a href="https://www.linkedin.com/in/oliveira-sarah/">
+<a href="https://www.linkedin.com/in/saraholiveirarm/">
     <img src="https://img.shields.io/badge/Sarah_Oliveira-0077B5?logo=LinkedIn&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Foliveira-sarah%2F"/>
 </a>
 <a href="https://codepen.io/saraholiveirarm">
