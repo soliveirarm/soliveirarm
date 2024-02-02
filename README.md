@@ -1,34 +1,37 @@
-# Hello! I'm Sarah Oliveira
+<div align="center">
+    <h1>Hello! I'm Sarah Oliveira</h1>
+    <a href="https://www.linkedin.com/in/saraholiveirarm/">
+        <img src="https://img.shields.io/badge/Sarah_Oliveira-0077B5?style=for-the-badge&logo=LinkedIn"/>
+    </a>
+    <a href="https://codepen.io/saraholiveirarm">
+        <img src="https://img.shields.io/badge/@saraholiveirarm-000?style=for-the-badge&logo=Codepen">
+    </a>
+</div>
 
-<a href="https://www.linkedin.com/in/saraholiveirarm/">
-    <img src="https://img.shields.io/badge/Sarah_Oliveira-0077B5?logo=LinkedIn&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Foliveira-sarah%2F"/>
-</a>
-<a href="https://codepen.io/saraholiveirarm">
-    <img src="https://img.shields.io/badge/saraholiveirarm-000?logo=Codepen&link=https%3A%2F%2Fcodepen.io%2Foliveirasarah">
-</a>
+## About Me
 
+Hi, my name is Sarah Oliveira, I'm a brazilian undergraduate majoring in Internet Systems at Fatec Lins, São Paulo. 
 
-```js
-let sarah = {
-  age: 18,
-  nationality: "Brazilian",
-  education: "Undergraduate Student",
-  degree: "Internet Systems",
-  university: "Fatec Lins",
-};
-```
+I'm passionate about design, front-end development and music, but decided to go with the first two carrer-wise 😁
+
+- 🔢 Age: 19
+- 🗺️ Lins, São Paulo - Brazil
+- 🎓 Major: Associate Degree in Internet Systems (2022-2024)
+- 🏫 College: Fatec Lins - Professor Antonio Seabra
+
+## Main Technologies/Tools
 
 <div style="display: inline-block" >
-    <img src="https://img.shields.io/badge/HTML5-9378ff?logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-9378ff?logo=css3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JavaScript-9378ff?logo=javascript&logoColor=white" />
-    <img src="https://img.shields.io/badge/Sass-9378ff?logo=sass&logoColor=white" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-9378ff?logo=tailwind-css&logoColor=white" />
+    <img src="https://img.shields.io/badge/HTML5-e6532d?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-299cf8?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-f7e025?style=for-the-badge&logo=javascript&logoColor=080808" />
+    <img src="https://img.shields.io/badge/Sass-ce6b9c?style=for-the-badge&logo=sass&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-161d2d?style=for-the-badge&logo=tailwind-css" />
  </div>
 
 
 ## Currently studying:
 <div style="display: inline-block">
-    <img src="https://img.shields.io/badge/React-9378ff?logo=react&logoColor=white" />
-    <img src="https://img.shields.io/badge/styled--components-9378ff?logo=styled-components&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-69e4ff?style=for-the-badge&logo=react&logoColor=292929" />
+    <img src="https://img.shields.io/badge/styled--components-de7496?style=for-the-badge&logo=styled-components&logoColor=white" />
 </div>
