@@ -14,10 +14,10 @@ Hi, my name is Sarah Oliveira, I'm a brazilian undergraduate majoring in Interne
 
 I'm passionate about design, front-end development and music, but decided to go with the first two carrer-wise 😁
 
-- 🔢 Age: 19
-- 🗺️ Lins, São Paulo - Brazil
-- 🎓 Major: Associate Degree in Internet Systems (2022-2024)
-- 🏫 College: Fatec Lins - Professor Antonio Seabra
+- 🔢 **Age:** 19
+- 🗺️ **Current City:** Lins, São Paulo - Brazil
+- 🎓 **Major:** Associate Degree in Internet Systems (2022-2024)
+- 🏫 **College:** Fatec Lins - Professor Antonio Seabra
 
 ## Main Technologies/Tools
 
