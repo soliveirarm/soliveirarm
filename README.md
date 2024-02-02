@@ -26,7 +26,6 @@ I'm passionate about design, front-end development and music, but decided to go 
     <img src="https://img.shields.io/badge/CSS3-299cf8?style=for-the-badge&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-f7e025?style=for-the-badge&logo=javascript&logoColor=080808" />
     <img src="https://img.shields.io/badge/Sass-ce6b9c?style=for-the-badge&logo=sass&logoColor=white" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-161d2d?style=for-the-badge&logo=tailwind-css" />
  </div>
 
 
@@ -34,4 +33,5 @@ I'm passionate about design, front-end development and music, but decided to go 
 <div style="display: inline-block">
     <img src="https://img.shields.io/badge/React-69e4ff?style=for-the-badge&logo=react&logoColor=292929" />
     <img src="https://img.shields.io/badge/styled--components-de7496?style=for-the-badge&logo=styled-components&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-161d2d?style=for-the-badge&logo=tailwind-css" />
 </div>
