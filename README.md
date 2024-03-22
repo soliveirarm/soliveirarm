@@ -1,10 +1,10 @@
 <div align="center">
     <h1>Hello! I'm Sarah Oliveira</h1>
-    <a href="https://www.linkedin.com/in/saraholiveirarm/">
+    <a href="https://www.linkedin.com/in/soliveirarm/">
         <img src="https://img.shields.io/badge/Sarah_Oliveira-0077B5?style=for-the-badge&logo=LinkedIn"/>
     </a>
-    <a href="https://codepen.io/saraholiveirarm">
-        <img src="https://img.shields.io/badge/@saraholiveirarm-000?style=for-the-badge&logo=Codepen">
+    <a href="https://codepen.io/soliveirarm">
+        <img src="https://img.shields.io/badge/@soliveirarm-000?style=for-the-badge&logo=Codepen">
     </a>
 </div>
 
