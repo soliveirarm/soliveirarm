@@ -15,7 +15,9 @@
 
 Hi, my name is Sarah Oliveira, I'm a brazilian undergraduate majoring in Internet Systems at Fatec Lins, São Paulo. 
 
-I'm passionate about design, front-end development and music, but decided to go with the first two carrer-wise 😁
+I'm passionate about design, front-end development and music, but decided to go with the first two carrer-wise 🙃
+
+Although I tend to lean towards front-end development and UX/UI design, I do like to do some rather simple but fun python scripts for myself, can't stand database tho 🫠
 
 - 🔢 **Age:** 19
 - 🗺️ **Current City:** Lins, São Paulo - Brazil
