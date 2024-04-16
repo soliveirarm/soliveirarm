@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/@soliveirarm-667881?style=for-the-badge&logo=replit&logoColor=white"/>
 </a>
 
-<img style="max-width: 300px; margin-top: 0.5rem" src="./coffee.jpg" />
+<img style="width: 300px; margin-top: 0.5rem" src="./coffee.jpg" />
 
 ## About Me
 
