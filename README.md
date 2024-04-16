@@ -1,19 +1,20 @@
-<div align="center">
-    <h1>Hello! I'm Sarah Oliveira</h1>
-    <a href="https://www.linkedin.com/in/soliveirarm/">
-        <img src="https://img.shields.io/badge/Sarah_Oliveira-0077B5?style=for-the-badge&logo=LinkedIn"/>
-    </a>
-    <a href="https://codepen.io/soliveirarm">
-        <img src="https://img.shields.io/badge/@soliveirarm-000?style=for-the-badge&logo=Codepen">
-    </a>
-    <a href="https://replit.com/@soliveirarm">
-        <img src="https://img.shields.io/badge/@soliveirarm-667881?style=for-the-badge&logo=replit&logoColor=white"/>
-    </a>
-</div>
+# Hello! I'm Sarah Oliveira
+
+<a href="https://www.linkedin.com/in/soliveirarm/">
+    <img src="https://img.shields.io/badge/Sarah_Oliveira-0077B5?style=for-the-badge&logo=LinkedIn"/>
+</a>
+<a href="https://codepen.io/soliveirarm">
+    <img src="https://img.shields.io/badge/@soliveirarm-000?style=for-the-badge&logo=Codepen">
+</a>
+<a href="https://replit.com/@soliveirarm">
+    <img src="https://img.shields.io/badge/@soliveirarm-667881?style=for-the-badge&logo=replit&logoColor=white"/>
+</a>
+
+<img style="max-width: 300px; margin-top: 0.5rem" src="./coffee.jpg" />
 
 ## About Me
 
-Hi, my name is Sarah Oliveira, I'm a brazilian undergraduate majoring in Internet Systems at Fatec Lins, São Paulo. 
+Hi, my name is Sarah Oliveira, I'm a brazilian undergraduate majoring in Internet Systems at Fatec Lins, São Paulo.
 
 I'm passionate about design, front-end development and music, but decided to go with the first two carrer-wise 🙃
 
@@ -33,8 +34,8 @@ Although I tend to lean towards front-end development and UX/UI design, I do lik
     <img src="https://img.shields.io/badge/Sass-ce6b9c?style=for-the-badge&logo=sass&logoColor=white" />
  </div>
 
-
 ## Currently studying:
+
 <div style="display: inline-block">
     <img src="https://img.shields.io/badge/React-69e4ff?style=for-the-badge&logo=react&logoColor=292929" />
     <img src="https://img.shields.io/badge/styled--components-de7496?style=for-the-badge&logo=styled-components&logoColor=white" />
