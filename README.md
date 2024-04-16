@@ -6,6 +6,9 @@
     <a href="https://codepen.io/soliveirarm">
         <img src="https://img.shields.io/badge/@soliveirarm-000?style=for-the-badge&logo=Codepen">
     </a>
+    <a href="https://replit.com/@soliveirarm">
+        <img src="https://img.shields.io/badge/@soliveirarm-667881?style=for-the-badge&logo=replit&logoColor=white"/>
+    </a>
 </div>
 
 ## About Me
