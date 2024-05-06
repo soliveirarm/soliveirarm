@@ -1,14 +1,16 @@
 # Hello! I'm Sarah Oliveira
 
-<a href="https://www.linkedin.com/in/soliveirarm/">
-    <img src="https://img.shields.io/badge/Sarah_Oliveira-0077B5?style=for-the-badge&logo=LinkedIn"/>
-</a>
-<a href="https://codepen.io/soliveirarm">
-    <img src="https://img.shields.io/badge/@soliveirarm-000?style=for-the-badge&logo=Codepen">
-</a>
-<a href="https://replit.com/@soliveirarm">
-    <img src="https://img.shields.io/badge/@soliveirarm-667881?style=for-the-badge&logo=replit&logoColor=white"/>
-</a>
+<div align="center">
+    <a href="https://www.linkedin.com/in/soliveirarm/">
+        <img src="https://img.shields.io/badge/Sarah_Oliveira-0077B5?style=for-the-badge&logo=LinkedIn"/>
+    </a>
+    <a href="https://codepen.io/soliveirarm">
+        <img src="https://img.shields.io/badge/@soliveirarm-000?style=for-the-badge&logo=Codepen">
+    </a>
+    <a href="https://replit.com/@soliveirarm">
+        <img src="https://img.shields.io/badge/@soliveirarm-667881?style=for-the-badge&logo=replit&logoColor=white"/>
+    </a>
+</div>
 
 <div align="center">
     <img style="width: 300px; margin-top: 0.5rem" src="./coffee.png" />
