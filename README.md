@@ -40,4 +40,5 @@ Although I tend to lean towards front-end development and UX/UI design, I do lik
     <img src="https://img.shields.io/badge/React-69e4ff?style=for-the-badge&logo=react&logoColor=292929" />
     <img src="https://img.shields.io/badge/styled--components-de7496?style=for-the-badge&logo=styled-components&logoColor=white" />
     <img src="https://img.shields.io/badge/Tailwind_CSS-161d2d?style=for-the-badge&logo=tailwind-css" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </div>
