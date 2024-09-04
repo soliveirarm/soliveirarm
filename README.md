@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-    <img style="width: 300px; margin-top: 0.5rem" src="./coffee.png" />
+    <img style="width: 300px; margin-top: 0.5rem" src="./coffee.jpg" />
 </div>
 
 ## About Me
@@ -29,20 +29,15 @@ Although I tend to lean towards front-end development and UX/UI design, I do lik
 - 🎓 **Major:** Associate Degree in Internet Systems (2022-2024)
 - 🏫 **College:** Fatec Lins - Professor Antonio Seabra
 
-## Main Technologies/Tools
-
-<div style="display: inline-block" >
+<div align="center" style="display: inline-block" >
+    <h2>Main Technologies/Tools</h2>
     <img src="https://img.shields.io/badge/HTML5-e6532d?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-299cf8?style=for-the-badge&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-f7e025?style=for-the-badge&logo=javascript&logoColor=080808" />
     <img src="https://img.shields.io/badge/Sass-ce6b9c?style=for-the-badge&logo=sass&logoColor=white" />
- </div>
-
-## Currently studying:
-
-<div style="display: inline-block">
     <img src="https://img.shields.io/badge/React-69e4ff?style=for-the-badge&logo=react&logoColor=292929" />
     <img src="https://img.shields.io/badge/styled--components-de7496?style=for-the-badge&logo=styled-components&logoColor=white" />
     <img src="https://img.shields.io/badge/Tailwind_CSS-161d2d?style=for-the-badge&logo=tailwind-css" />
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-</div>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+ </div>
