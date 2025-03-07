@@ -11,25 +11,23 @@
         <img src="https://img.shields.io/badge/@soliveirarm-667881?style=for-the-badge&logo=replit&logoColor=white"/>
     </a>
 </div>
-
+<br />
 <div align="center">
     <img style="width: 300px; margin-top: 0.5rem" src="./coffee.jpg" />
 </div>
 
 ## `About Me`
 
-Hi, my name is Sarah Oliveira, I'm a brazilian undergraduate majoring in Internet Systems at Fatec Lins, São Paulo.
-
-I'm passionate about design, front-end development and music, but decided to go with the first two carrer-wise 🙃
+Hi, my name is Sarah Oliveira, I'm a brazilian undergraduate majoring in Internet Systems at Fatec Lins, São Paulo. I'm passionate about design, front-end development and music, but decided to go with the first two carrer-wise 🙃
 
 Although I tend to lean towards front-end development and UX/UI design, I do like to do some rather simple but fun python scripts for myself, can't stand database tho
 
 ```py
 more_info = {
-    "🔢 Age": 19,
+    "🔢 Age": 20,
     "🗺️ Current City": "Lins, São Paulo - Brazil",
-    "🎓 Major": "Associate Degree in Internet Systems (2022-2024)",
-    "🏫 College": "Fatec Lins - Professor Antonio Seabra",
+    "🎓 Major": "Associate Degree in Internet Systems (2022-2025)",
+    "🏫 College": "Cruzeiro do Sul Virtual",
 }
 ```
 
